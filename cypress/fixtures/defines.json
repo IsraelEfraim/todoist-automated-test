@@ -1,0 +1,10 @@
+{
+  "url": "https://todoist.com/pt-BR",
+  "cookies": [
+    "todoistd"
+  ],
+  "user": {
+    "email": "israel_efraim@outlook.com",
+    "password": "aqui_estou_eu_mais_um_dia"
+  }
+}

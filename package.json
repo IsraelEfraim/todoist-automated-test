@@ -1,0 +1,11 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "Cypress Testing",
+  "main": "main.js",
+  "author": "Israel Efraim Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.4.0"
+  }
+}
